@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            
-            //
+
+            Name person = new Name();
+            person._firstName = "Maddox";
 
         }
     }
